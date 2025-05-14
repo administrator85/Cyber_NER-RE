@@ -1,0 +1,41 @@
+{
+    "entities": {
+        "Malware": {
+            "verbose": "Malware",
+            "short": "Malware"
+        },
+        "Organization": {
+            "verbose": "Organization",
+            "short": "Organization"
+        },
+        "Application": {
+            "verbose": "Application",
+            "short": "Application"
+        },
+        "OS": {
+            "verbose": "OS",
+            "short": "OS"
+        },
+        "Person": {
+            "verbose": "Person",
+            "short": "Person"
+        },
+        "Location": {
+            "verbose": "Location",
+            "short": "Location"
+        },
+        "Time": {
+            "verbose": "Time",
+            "short": "Time"
+        },
+        "MalwareType": {
+            "verbose": "MalwareType",
+            "short": "MalwareType"
+        },
+        "ThreatActor": {
+            "verbose": "ThreatActor",
+            "short": "ThreatActor"
+        }
+    },
+    "relations": {}
+}
