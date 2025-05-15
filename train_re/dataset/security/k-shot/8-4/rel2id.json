@@ -1,0 +1,11 @@
+{
+    "noRelation": 1,
+    "isA": 0,
+    "targets": 2,
+    "uses": 3,
+    "hasAuthor": 4,
+    "variantOf": 5,
+    "hasAlias": 6,
+    "indicates": 7,
+    "exploits": 8
+}
